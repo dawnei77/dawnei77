@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey there, I'm Dawnei! ✨
 
-<!--
-**dawnei77/dawnei77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner web developer learning HTML, CSS, JS & GitHub!  
+Curious about building cool stuff like real-time classroom apps, feedback tools & AI-powered quizzes.
 
-Here are some ideas to get you started:
+## 🔧 Currently Learning:
+- HTML, CSS, JavaScript
+- GitHub & Git (green boxsss 🌿)
+- React (soon!), Node.js (maybe 😅)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Project Goals:
+- ✅ Polling app for classrooms
+- ✅ Resume suggestion tool
+- ✅ Feedback system with AI
+- 🔜 More crazy ideas!
+
+---
+
+> “Keep coding. Stay curious. Eat dinner. Repeat.” 🍛💻✨
